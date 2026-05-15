@@ -1,0 +1,20 @@
+インストールするもの:
+Node.js
+LMStdio
+PowerShell 7
+bun
+start_claudeの作成
+
+LMStdio:
+AIの導入、ロード
+使えるメモリ量を変更
+ランディングをスタート
+
+PowerShell 7
+PowerShell 7にアップデート
+cdを使ってファイルの移動、検索（Start_Claudeを見つけて導入）cd = チェンジディレクトリ
+start_claudeに権限を付与
+
+
+
+

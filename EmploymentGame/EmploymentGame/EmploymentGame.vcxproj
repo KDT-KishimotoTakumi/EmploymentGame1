@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Graphics\Renderer\Renderer.cpp" />
     <ClCompile Include="Main\Main.cpp" />
-    <ClCompile Include="System\DirectX\DirectX.cpp" />
     <ClCompile Include="System\Window\Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Graphics\Renderer\Renderer.h" />
     <ClInclude Include="System\Constant\Constant.h" />
-    <ClInclude Include="System\DirectX\DirectX.h" />
     <ClInclude Include="System\Window\Window.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
